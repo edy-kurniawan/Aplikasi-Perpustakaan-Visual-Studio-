@@ -1,0 +1,32 @@
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.exe.config
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.exe
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.pdb
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.xml
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form1.resources
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Resources.resources
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.vbproj.GenerateResource.Cache
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.exe
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.xml
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.pdb
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form2.resources
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form3.resources
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form4.resources
+F:\16-TIA1\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form5.resources
+T:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.exe.config
+T:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.exe
+T:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.xml
+T:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.pdb
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.exe.config
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.exe
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.xml
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.pdb
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.exe
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.pdb
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\bin\Debug\Projek_UAS.xml
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form5.resources
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form4.resources
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form3.resources
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form1.resources
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Form2.resources
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.Resources.resources
+G:\SMT 4\Projek VB\Projek_UAS\Projek_UAS\obj\Debug\Projek_UAS.vbproj.GenerateResource.Cache
